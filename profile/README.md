@@ -14,7 +14,7 @@ Welcome to the profile of the bio-image analysis technology development group (B
 
 ## Members
 
-We are currently three postodcs and one student working in the group:
+We are currently three postdocs and one student working in the group:
 
 | | |
 |---|---|
