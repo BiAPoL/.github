@@ -25,6 +25,6 @@ We are currently three postdocs and one student working in the group:
 
 ## Contact
 
-For more information on our current and previous members and our mission, visit our [group page](https://physics-of-life.tu-dresden.de/). For requests, please contact us via email (biapol at tu-dresden.de). For image analysis questions, please make sure to also check the image anylsis [forum](https://forum.image.sc/).
+For more information on our current and previous members and our mission, visit our [group page](https://physics-of-life.tu-dresden.de/research/core-groups/bio-image-analysis). For requests, please contact us via email (biapol (at) tu-dresden.de). For image analysis questions, please make sure to also check the image analysis [forum](https://forum.image.sc/).
 
 Please understand that, regarding image analysis, our first and foremost responsibilities are to the Physics of Life institute and the Dresden Life Science community. We will try to help you as much as possible, but we may not be able to provide immediate support.
