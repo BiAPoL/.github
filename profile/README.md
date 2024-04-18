@@ -1,5 +1,7 @@
 # Bio-image analysis technology development group (BiAPoL)
 
+*<h3>An image analysis group with expertise in Machine Learning who got your back and your pixels</h3>*
+
 Welcome to the profile of the bio-image analysis technology development group (BiAPoL) at [Physics of Life](https://physics-of-life.tu-dresden.de/). We provide services and tools for the analysis of microscopy images in the life sciences. If you have any questions or need help with image analysis, feel free to contact us (see contact information below).
 
 
