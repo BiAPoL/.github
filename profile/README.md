@@ -9,7 +9,7 @@ Welcome to the profile of the bio-image analysis technology development group (B
 
 | | |
 |---|---|
-| <img src="https://github.com/BiAPoL/.github/blob/raw/profile/images/consultation.png" alt="Consultation" style="width:50%">  | <p> <h2>**Image Data Science Consulting** </h2> <br> **We provide services for the analysis of microscopy images in the life sciences** <ol> <li>Method Exploration</li> <li>Pair Programming</li> </ol> <p>|
+| <img src="https://raw.githubusercontent.com/BiAPoL/.github/main/profile/images/consultation.png" alt="Consultation" style="width:50%">  | <p> <h2>**Image Data Science Consulting** </h2> <br> **We provide services for the analysis of microscopy images in the life sciences** <ol> <li>Method Exploration</li> <li>Pair Programming</li> </ol> <p>|
 | <img src="./images/internship.png" alt="Consultation" style="width:50%"> | <p> <h2>**Internship/mini-sabbaticals Development** </h2> <br> **Stay with us to bolster your analysis and code proficiency** <ol> <li>2-4 weeks lab rotation for a focused bio-image analysis task</li> <li>Turn images into knowledge </li> </ol> <p>|
 | <img src="./images/plugin.png" alt="Consultation" style="width:50%"> | <p> <h2>**Plugin/library development** </h2> <br> **Make your code sustainable and reusable** <ol> <li>[FAIRness](https://www.go-fair.org/fair-principles/)</li> <li>Napari plugins, Fiji plugins, Jupyter notebooks or Python libraries (i.e., PyPi)</li> </ol> <p>|
 | <img src="./images/rent.png" alt="Consultation" style="width:50%"> | <p> <h2>**Rent-a-scientist** </h2> <br> **Pay us to support your work** <ol> <li>Organize workshops or other teaching events</li> <li>Get the help of a professional image data scientist for your project to make a leap forward.</li> </ol> <p>|
