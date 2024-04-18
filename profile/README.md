@@ -20,10 +20,10 @@ We are currently three postdocs and one student working in the group:
 
 | | |
 |---|---|
-|  <img src="https://raw.githubusercontent.com/BiAPoL/.github/main/profile/images/marcelo_cropped.png" alt="Marcelo" style="width:50%"> | <p> <h2>**Marcelo Zoccoler** (Postdoc) </h2> <br> Interested in Image + Signal Processing, Fluorescence Lifetime-based Segmentation, Time-lapse Signal Classification, Machine Learning, Software and Plugin Development @zoccoler </p>|
-| <img src="https://raw.githubusercontent.com/BiAPoL/.github/main/profile/images/johannes_cropped.png" alt="Johannes" style="width:50%"> | <p> <h2>**Johannes Soltwedel** (Postdoc) </h2> <br> Interested in segmentation, machine/deep learning, algorithms, teaching, surface meshes and geometry. </p> @jo-mueller|
-| <img src="https://raw.githubusercontent.com/BiAPoL/.github/main/profile/images/stefan_cropped.png" alt="Stefan" style="width:50%"> | <p> <h2>**Stefan Hahmann** (Postdoc) </h2> <br> Interested in Research Software Engineering, Fiji Plugins, Feature Extraction, Deep Learning, Classification, Graphs, Open Source. </p> @stefanhahmann|
-| <img src="https://raw.githubusercontent.com/BiAPoL/.github/main/profile/images/maleeha_cropped.png" alt="Maleeha" style="width:50%"> | <p> <h2>**Maleeha Hassan** (Student) </h2> <br> Interested in Image Analysis, Machine Learning, meshes and cancer organoids. </p> @maleehahassan|
+|  <img src="https://raw.githubusercontent.com/BiAPoL/.github/main/profile/images/marcelo_cropped.png" alt="Marcelo"> | <p> <h2>**Marcelo Zoccoler** (Postdoc) </h2> <br> Interested in Image + Signal Processing, Fluorescence Lifetime-based Segmentation, Time-lapse Signal Classification, Machine Learning, Software and Plugin Development @zoccoler </p>|
+| <img src="https://raw.githubusercontent.com/BiAPoL/.github/main/profile/images/johannes_cropped.png" alt="Johannes"> | <p> <h2>**Johannes Soltwedel** (Postdoc) </h2> <br> Interested in segmentation, machine/deep learning, algorithms, teaching, surface meshes and geometry. </p> @jo-mueller|
+| <img src="https://raw.githubusercontent.com/BiAPoL/.github/main/profile/images/stefan_cropped.png" alt="Stefan"> | <p> <h2>**Stefan Hahmann** (Postdoc) </h2> <br> Interested in Research Software Engineering, Fiji Plugins, Feature Extraction, Deep Learning, Classification, Graphs, Open Source. </p> @stefanhahmann|
+| <img src="https://raw.githubusercontent.com/BiAPoL/.github/main/profile/images/maleeha_cropped.png" alt="Maleeha"> | <p> <h2>**Maleeha Hassan** (Student) </h2> <br> Interested in Image Analysis, Machine Learning, meshes and cancer organoids. </p> @maleehahassan|
 
 ## Contact
 
