@@ -2,7 +2,7 @@
 
 *<h3>An image analysis group with expertise in Machine Learning who got your back and your pixels</h3>*
 
-Welcome to the profile of the bio-image analysis technology development group (BiAPoL) at [Physics of Life](https://physics-of-life.tu-dresden.de/). We provide services and tools for the analysis of microscopy images in the life sciences. If you have any questions or need help with image analysis, feel free to contact us (see contact information below).
+Welcome to the profile of the bio-image analysis technology development group (BiAPoL) at [Physics of Life / TU Dresden](https://physics-of-life.tu-dresden.de/). We provide services and tools for the analysis of microscopy images in the life sciences. If you have any questions or need help with image analysis, feel free to contact us (see contact information below).
 
 
 ## Services
@@ -16,7 +16,7 @@ Welcome to the profile of the bio-image analysis technology development group (B
 
 ## Members
 
-We are currently three postodcs and one student working in the group:
+We are currently three postdocs and one student working in the group:
 
 | | |
 |---|---|
@@ -27,6 +27,6 @@ We are currently three postodcs and one student working in the group:
 
 ## Contact
 
-For more information on our current and previous members and our mission, visit our [group page](https://physics-of-life.tu-dresden.de/). For requests, please contact us via email (biapol at tu-dresden.de). For image analysis questions, please make sure to also check the image anylsis [forum](https://forum.image.sc/).
+For more information on our current and previous members and our mission, visit our [group page](https://physics-of-life.tu-dresden.de/research/core-groups/bio-image-analysis). For requests, please contact us via email (biapol (at) tu-dresden.de). For image analysis questions, please make sure to also check the image analysis [forum](https://forum.image.sc/).
 
 Please understand that, regarding image analysis, our first and foremost responsibilities are to the Physics of Life institute and the Dresden Life Science community. We will try to help you as much as possible, but we may not be able to provide immediate support.
