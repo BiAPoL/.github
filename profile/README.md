@@ -25,6 +25,13 @@ We are currently three postdocs and one student working in the group:
 | <img src="https://raw.githubusercontent.com/BiAPoL/.github/main/profile/images/stefan_cropped.png" alt="Stefan"> | <p> <h2>**Stefan Hahmann** (Postdoc) </h2> <br> Interested in Research Software Engineering, Fiji Plugins, Feature Extraction, Deep Learning, Classification, Graphs, Open Source. </p> @stefanhahmann|
 | <img src="https://raw.githubusercontent.com/BiAPoL/.github/main/profile/images/maleeha_cropped.png" alt="Maleeha"> | <p> <h2>**Maleeha Hassan** (Student) </h2> <br> Interested in Image Analysis, Machine Learning, meshes and cancer organoids. </p> @maleehahassan|
 
+## Repositories
+
+- [Teaching materials](https://github.com/BiAPoL?q=teaching)
+- [Software / plugins](https://github.com/BiAPoL?q=software)
+- [Example codes](https://github.com/BiAPoL?q=example-code)
+- [Packages](https://github.com/BiAPoL?q=package)
+
 ## Contact
 
 For more information on our current and previous members and our mission, visit our [group page](https://physics-of-life.tu-dresden.de/research/core-groups/bio-image-analysis). For requests, please contact us via email (biapol (at) tu-dresden.de). For image analysis questions, please make sure to also check the image analysis [forum](https://forum.image.sc/).
