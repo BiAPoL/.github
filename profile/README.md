@@ -27,7 +27,7 @@ We are currently three postdocs and one student working in the group:
 
 ## Repositories
 
-- [Teaching materials](https://github.com/BiAPoL?q=teaching)
+- [Teaching materials](https://github.com/BiAPoL?q=teaching-materials)
 - [Software / plugins](https://github.com/BiAPoL?q=software)
 - [Example codes](https://github.com/BiAPoL?q=example-code)
 - [Packages](https://github.com/BiAPoL?q=package)
