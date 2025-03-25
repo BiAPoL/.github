@@ -25,7 +25,9 @@ We are currently three postdocs and one student working in the group:
 | <img src="https://raw.githubusercontent.com/BiAPoL/.github/main/profile/images/stefan_cropped.png" alt="Stefan"> | <p> <h2>**Stefan Hahmann** (Postdoc) </h2> <br> Interested in Research Software Engineering, Fiji Plugins, Feature Extraction, Deep Learning, Classification, Graphs, Open Source. </p> @stefanhahmann|
 | <img src="https://raw.githubusercontent.com/BiAPoL/.github/main/profile/images/maleeha_cropped.png" alt="Maleeha"> | <p> <h2>**Maleeha Hassan** (Student) </h2> <br> Interested in Image Analysis, Machine Learning, meshes and cancer organoids. </p> @maleehahassan|
 
-## Repositories
+## Repositories by Category
+
+After clicking one of the categories below, scroll down the webpage to find the filtered repositories.
 
 - [Teaching materials](https://github.com/BiAPoL?q=teaching-materials)
 - [Software / plugins](https://github.com/BiAPoL?q=software)
