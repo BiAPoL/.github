@@ -1,4 +1,6 @@
-# Bio-image analysis technology development group (BiAPoL)
+# Former bio-image analysis technology development group (BiAPoL)
+
+⚠️**You are looking at the page of the former bio-image analysis technology development group (BiAPoL). This group is discontinued. Feel free to use or re-use the contents from this organization under the respective license terms. We continue to maintain selected napari-plugins [napari-cluster-plotter](https://github.com/BiAPoL/napari-clusters-plotter) and [biaplotter](https://github.com/BiAPoL/biaplotter/).** ⚠️
 
 *<h3>An image analysis group with expertise in Machine Learning who got your back and your pixels</h3>*
 
